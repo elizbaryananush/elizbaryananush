@@ -1,5 +1,5 @@
 
-<img align="left" width="380" src="./butterfly.svg" alt="Pink ASCII Butterfly" />
+<img align="left" width="380" src="./butterfly1.svg" alt="Pink ASCII Butterfly" />
 
   
 <br clear="right"/>
