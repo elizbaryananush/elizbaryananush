@@ -1,58 +1,35 @@
-<table>
-  <tr>
-    <td valign="top">
-      <pre style="background-color: transparent !important;">
-        <code style="background-color: transparent !important">
-          <p style=" color: pink">
-  90000000            1           7            00000008  
-  0        0000     8    1     7    8     0000        0  
-   00848      5 00        2   3        80 67     84800   
-    03    892 0    93      7 3      18    0 260    10    
-    20     01    1   62     2     39   7    10     05    
-     07      8      3  97  000   8  1      8       0     
-     06         33      70 000 01      32         90     
-      00   1          3  0 000 0  1          1   00      
-        604     4 0 0 0 4 0 0 0 4 0 0 0 6     406        
-             07     901  2 000 2  109      0             
-          00      0     0 10 03 0     8     700          
-        70  73  0    4  3 50 05 1  4    0  31  01        
-        00    2104172  3   504   5  5714015    00        
-        04     1         0  0  0  7      1     20        
-         00       1      4     5      7   7   00         
-           009          0       0          800           
-             20 1   5  0         0  4   7 02             
-               4000008             8000004               
-                0                       0                
-               0                        30               
-              00                         00
-          </p>
-        </code>
-      </pre>
-      </pre>
-    </td>
-    <td valign="top" width="100%">
+<img align="right" width="380" src="./butterfly.svg" alt="Pink ASCII Butterfly" />
 
-# Hi there, I'm [Your Name] 👋
+# 👋 Hi there, I'm [Your Name]
+*Developer / Designer / Tech Enthusiast*
 
-### 🌿 About Me
-- 🔭 I’m currently working on **Full-Stack Web Development**
-- 🌱 I’m currently learning **Next.js, Node.js & System Architecture**
-- ⚡ Fun fact: I love creative coding and detailed ASCII art!
+Welcome to my digital garden! I love blending clean code with creative elements.
+
+* 🔭 **Currently working on:** [Your Project Name]
+* 🌱 **Currently learning:** [e.g., Rust, Machine Learning]
+* 👯 **Looking to collaborate on:** Open source creative projects
+* 💬 **Ask me about:** [Your expertise]
+* 📫 **How to reach me:** [Your Email or LinkedIn]
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Redux, Tailwind CSS
-- **Backend:** Node.js, Express, NestJS
-- **Database:** MongoDB, PostgreSQL
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-### 📬 Connect with Me
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
-- 📧 Email: your.email@example.com
+### 📈 GitHub Stats
 
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elizbaryananush&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizbaryananush&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
