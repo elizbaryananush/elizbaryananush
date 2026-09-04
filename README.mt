@@ -31,5 +31,5 @@ Welcome to my digital garden! I love blending clean code with creative elements.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elizbaryananush&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizbaryananush&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizbaryananushE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
