@@ -1,6 +1,12 @@
-<img align="right" width="380" src="./butterfly.svg" alt="Pink ASCII Butterfly" />
 
-# 👋 Hi there, I'm [Your Name]
+<img align="left" width="380" src="./butterfly.svg" alt="Pink ASCII Butterfly" />
+
+  
+<br clear="right"/>
+
+
+### 👋 Hi there, I'm Anush 
+
 *Developer / Designer / Tech Enthusiast*
 
 Welcome to my digital garden! I love blending clean code with creative elements.
@@ -10,10 +16,9 @@ Welcome to my digital garden! I love blending clean code with creative elements.
 * 👯 **Looking to collaborate on:** Open source creative projects
 * 💬 **Ask me about:** [Your expertise]
 * 📫 **How to reach me:** [Your Email or LinkedIn]
-
-<br clear="right"/>
-
 ---
+
+<br />
 
 ### 🛠️ Languages & Tools
 
