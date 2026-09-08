@@ -14,20 +14,20 @@
 
 **/frontend**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=next)
 
 </td>
 <td valign="top" width="50%">
 
 **/backend**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node](https://skillicons.dev/icons?i=nodejs&theme=light)
+![Nest](https://skillicons.dev/icons?i=nest&theme=light)
+![Python](https://skillicons.dev/icons?i=python&theme=light)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 </td>
 </tr>
@@ -36,29 +36,30 @@
 
 **/databases**
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
+![Redis](https://skillicons.dev/icons?i=redis)
+
 
 </td>
 <td valign="top" width="50%">
 
 **/other**
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![git](https://skillicons.dev/icons?i=git&theme=light)
+![github](https://skillicons.dev/icons?i=github&theme=light)
+![docker](https://skillicons.dev/icons?i=docker&theme=light)
+![redux](https://skillicons.dev/icons?i=redux)
 
 </td>
 </tr>
 </table>
 
 </td>
-<td valign="top" width="50%" align="center">
+<td valign="center" width="50%" align="center">
 
-<img src="./butterfly.svg" width="1000" alt="butterfly" />
+<img src="./butterfly.svg" width="100%" alt="butterfly" />
 
 </td>
 </tr>
