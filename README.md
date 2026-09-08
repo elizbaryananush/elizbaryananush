@@ -58,7 +58,7 @@
 </td>
 <td valign="top" width="35%" align="center">
 
-<img src="./butterfly1.svg" width="260" alt="butterfly" />
+<img src="./butterfly.svg" width="260" alt="butterfly" />
 
 </td>
 </tr>
