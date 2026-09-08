@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="50%">
 
 # Hi! I'm Anush
 
@@ -56,9 +56,9 @@
 </table>
 
 </td>
-<td valign="top" width="35%" align="center">
+<td valign="top" width="50%" align="center">
 
-<img src="./butterfly.svg" width="260" alt="butterfly" />
+<img src="./butterfly.svg" width="1000" alt="butterfly" />
 
 </td>
 </tr>
