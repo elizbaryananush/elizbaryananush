@@ -105,4 +105,4 @@ A feature-rich social media platform focusing on real-time messaging and optimiz
 - Realtime notification
 - Graph modeling
 
-🔗 [https://github.com/lderdzyan/facebook-clone](https://github.com/lderdzyan/facebook-clone)
+🔗 [https://github.com/lderdzyan/facebook-clone](https://github.com/elizbaryananush/facebook-clone)
